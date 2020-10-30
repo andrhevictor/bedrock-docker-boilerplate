@@ -32,6 +32,10 @@
   <a href="https://roots.io">Official Website</a> | <a href="https://roots.io/docs/bedrock/master/installation/">Documentation</a> | <a href="CHANGELOG.md">Change Log</a>
 </p>
 
+## Running the development environment
+- Install dependencies with
+  `docker-compose run --rm php composer install`
+
 ## Supporting
 
 **Bedrock** is an open source project and completely free to use.
